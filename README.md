@@ -1,4 +1,4 @@
-# GameMaker Sandbox
+# GMS1 Sandbox
 
 > Sandbox project to test and develop things and code for **GameMaker: Studio** (GMS1).
 

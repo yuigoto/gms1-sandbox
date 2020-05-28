@@ -1,4 +1,4 @@
-# GameMaker Sandbox | Authors
+# GMS1 Sandbox | Authors
 
     - **AuthorName** (emailAddress) - Location - _Role_
 
